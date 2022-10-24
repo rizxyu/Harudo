@@ -1,0 +1,29 @@
+{
+ "status": false,
+ "result": {
+  "villager": {
+   "desc": "Find the warewolves and eliminate them.",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6zW4mTe8vEAIOFNTkca71NhFOq5xUkvvrc5fbKAqXPcGcH8ERgACY7Lk&s=10"
+  },
+  "warewolf":{
+   "desc": "",
+   "img": ""
+  },
+  "cursed": {
+   "desc": "",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0yfSQB2J825_EJeMLFTr29cVpNPufID1M_g&usqp=CAU"
+  },
+  "hunter": {
+   "desc": "",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo7_DSDZ-a156GztcRs3HFeCVaZtUch4C1CQ&usqp=CAU"
+  },
+  "tanzer": {
+   "desc": "you hate your job and your life, you win if you are eliminated.",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrsH5s-DU0s4fGQqMBdaUCqo7Pr02iJ9WRBA&usqp=CAU"
+  },
+  "priest": {},
+  "bodyguard": {},
+  "pacifist": {}
+  "p.i": {}
+ }
+}
